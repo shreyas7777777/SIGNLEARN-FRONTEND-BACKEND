@@ -1,7 +1,7 @@
 export const userFeedback = [
     {
         title: "Mohith Gowda K",
-        text: "The sign language AI web app is an innovative and user-friendly tool that accurately detects hand gestures and translates them into corresponding signs. Its ensures reliable performance, making it an excellent resource for communication and education.",
+        text: "The sign language AI web app is an innovative and user-friendly tool that accurately detects hand gestures and translates them into corresponding signs. Its ensures reliable performance.",
         tag: "Student"
     },
     {
